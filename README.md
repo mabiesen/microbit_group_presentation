@@ -28,7 +28,6 @@ Full specs available at http://tech.microbit.org/hardware/
 6. 2.4 GHZ transceiver for radio
 7. 3 GPIO pads, 3v out, and ground connection.  Additionally, one can use the led pins for a total of 19 pins.
 8. temperature sensor – meant for the cpu but does an okay job detecting ambient room temp
-9. directory for file storage. 
 
 ### Programming Languages and Editors
 
