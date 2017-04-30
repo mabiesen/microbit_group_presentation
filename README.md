@@ -56,13 +56,14 @@ More information on available editors at https://www.microbit.co.uk/create-code
 Lets say that you want the microbit to display "hello" every time button a is pressed:
 
 ```
-from microbit import *            # importing all functions from the microbit library
+import microbit                            # import the microbit library, which contains functions for button_a and display
 
-while True:                       # This while statement causes the code to loop forever
-    if button_a.was_pressed():    # This statement checks to see if the a button was pressed on this loop cycle
-        display.scroll("hello")   # Scroll the text across the screen
+while True:                                # This while statement causes the code to loop forever
+    if microbit.button_a.was_pressed():    # This statement checks to see if the a button was pressed on this loop cycle
+        microbit.display.scroll("hello")   # Scroll the text across the screen
         
-                                  # Thats it! Easy peasy.
+                                           # Thats it! Easy peasy.
+                                  
 ```
 
 ### Demonstration Projects
