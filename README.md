@@ -68,7 +68,7 @@ while True:                                # This while statement causes the cod
 
 ### Demonstration Projects
 
-I have create a few projects to demonstrate the capabilities of the microbit.  Links may be found below:
+I have create a few other projects to demonstrate the capabilities of the microbit.  Links may be found below:
 
 **Basic Examples** - https://github.com/mabiesen/microbit_basic_examples
 
