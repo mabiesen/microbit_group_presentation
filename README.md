@@ -51,6 +51,20 @@ Note: I have used Mu on Raspberry Pi and Windows without issue, Ubuntu was probl
 
 More information on available editors at https://www.microbit.co.uk/create-code
 
+### Brief Example of the Microbit
+
+Lets say that you want the microbit to d isplay "hello" every time button a is pressed:
+
+```
+from microbit import *            # importing all functions from the microbit library
+
+while True:                       # This while statement causes the code to loop forever
+    if button_a.was_pressed():    # This statement checks to see if the a button was pressed on this loop cycle
+        display.scroll("hello")   # Scroll the text across the screen
+        
+                                  # Thats it! Easy peasy.
+```
+
 ### Demonstration Projects
 
 I have create a few projects to demonstrate the capabilities of the microbit.  Links may be found below:
