@@ -53,7 +53,7 @@ More information on available editors at https://www.microbit.co.uk/create-code
 
 ### Full Example of the Microbit using Micropython and the Mu editor
 
-Lets say that you want the microbit to display "hello" every time button a is pressed:
+Lets say that you want the microbit to display "hello" every time button a is pressed.  The code would be as follows:
 
 ```
 import microbit                            # import the microbit library, which contains functions for button_a and display
