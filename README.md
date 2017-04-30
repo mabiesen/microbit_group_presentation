@@ -7,16 +7,35 @@ The Microbit is a microcontroller created by the BBC in a continuing trend to br
 * The device is fitted with a number of onboard sensors, buttons, leds, and more.  
 * The libraries available for the Microbit's programming are incredibly easy to work with.  
 * The power consumption is incredibly low compared to a pi or arduino
-* Numerous programming languages are available for the microbit
+* Numerous programming languages work well with the micro bit
+* A basic kit, complete with micro-to-usb cable and triple A battery pack, is about 17 dollars(with shipping around 25 dollars)
 
-### Hardware
+Interested? They can be purchased at the following link https://www.adafruit.com/product/3362.
 
-### Capabilities
+### Truly Basic Specs
 
-### Programming Languages
+A couple of basic details:  ARM Cortex-M0 32 bit processor, 16KB RAM, nRF51 Application Processor
+
+Full specs available at http://tech.microbit.org/hardware/
+
+### What are the Microbit's IO capabilities?
+
+1. Accelerometer
+2. Compass, both for direction and detection of magnetic field strength
+3. 25 LEDs
+4. 2 programmable buttons
+5. bluetooth (not compatible with micropython)
+6. 2.4 GHZ transceiver for radio
+7. 3 GPIO pads, 3v out, and ground connection.  Additionally, one can use the led pins for a total of 19 pins.
+8. temperature sensor – meant for the cpu but does an okay job detecting ambient room temp
+9. directory for file storage. 
+
+### Programming Languages and Editors
 
 There are a number of languages available for the microbit:
 * Microsoft Touch
 * Microsoft Blocks
-* Javascript (Code Kindom text editor)
+* Javascript (Code Kindom)
 * Micropython (Mu text editor)
+
+More information at https://www.microbit.co.uk/create-code
