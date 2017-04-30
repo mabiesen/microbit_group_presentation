@@ -51,7 +51,7 @@ Note: I have used Mu on Raspberry Pi and Windows without issue, Ubuntu was probl
 
 More information on available editors at https://www.microbit.co.uk/create-code
 
-### Brief Example of the Microbit
+### Brief Example of the Microbit using Micropython
 
 Lets say that you want the microbit to d isplay "hello" every time button a is pressed:
 
