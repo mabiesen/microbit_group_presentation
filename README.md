@@ -34,7 +34,8 @@ Full specs available at http://tech.microbit.org/hardware/
 Everything and the kitchen sink, practically:
 1. robotic speech library.  Connect headphones to pins 0 and ground with alligator clips and listen! The sound is fait, a separately powered speaker might be ideal.
 2. neopixel library - control arrays of neopixels wth your microbit!  The microbit can power up to 8 neopixels at a time on its own, or all of them if the neopixels are powered separately.
-3. 
+3. Gestures library - because we have an accelerometer on board, the microbit is also able to sense gestures such as shake, up, down, left, right, or fall.
+4. LED Library - Easily light up the matrix with the images provided by the library.  You can also input some text that will be displayed in a scroll fashion across the leds (this feature is very handy and is used in runtime error reporting).
 
 ### Programming Languages and Editors
 
