@@ -35,9 +35,11 @@ There are a number of languages available for the microbit:
 * Microsoft Touch
 * Microsoft Blocks
 * Javascript (Code Kindom)
-* Micropython (Mu text editor)
+* Micropython (Mu text editor is what I have used, located here https://github.com/mu-editor/mu)
 
-More information at https://www.microbit.co.uk/create-code
+Note: I have used Mu on Raspberry Pi and Windows without issue, Ubuntu was problematic.
+
+More information on available editors at https://www.microbit.co.uk/create-code
 
 ### Demonstration Projects
 
