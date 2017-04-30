@@ -39,3 +39,13 @@ There are a number of languages available for the microbit:
 * Micropython (Mu text editor)
 
 More information at https://www.microbit.co.uk/create-code
+
+### Demonstration Projects
+
+I have create a few projects to demonstrate the capabilities of the microbit.  Links may be found below:
+
+Basic Examples - https://github.com/mabiesen/microbit_basic_examples
+
+In Home Alarm System - https://github.com/mabiesen/microbit_alarm_system
+
+My version of the Firefly projects - https://github.com/mabiesen/microbit_pass_the_light
