@@ -6,7 +6,7 @@
 The Microbit is a microcontroller created by the BBC in a continuing trend to bring younger generations into the world of programming and IOT.  And to that end, I think the makers of the Microbit did a fantastic job:
 * The device is fitted with a number of onboard sensors, buttons, leds, and more.  
 * The libraries available for the Microbit's programming are numerous and incredibly easy to work with.  
-* The power consumption is incredibly low compared to a pi or arduino. Two triple A batteries that last a looong time. http://www.reuk.co.uk/wordpress/microbit-battery-capacity/
+* The power consumption is incredibly low compared to a pi or arduino. Two triple A batteries that last as long as two weeks when idling, several days on full load http://www.reuk.co.uk/wordpress/microbit-battery-capacity/
 * Numerous programming languages work well with the micro bit, including drag and drop languages for newcomers
 * A basic kit, complete with micro-to-usb cable and triple A battery pack, is about 17 dollars(with shipping around 25 dollars)
 
