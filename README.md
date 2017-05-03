@@ -58,7 +58,7 @@ Lets say that you want the microbit to display "hello" every time button a is pr
 ```
 import microbit                            # import the microbit library, which contains functions for button_a and display
 
-while True:                                # This while statement causes the code to loop forever
+while True:                                # This while statement causes the code below it to loop forever
     if microbit.button_a.was_pressed():    # This statement checks to see if the a button was pressed on this loop cycle
         microbit.display.scroll("hello")   # Scroll the text across the screen
         
