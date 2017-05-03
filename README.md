@@ -31,7 +31,7 @@ Full specs available at http://tech.microbit.org/hardware/
 
 ### What do the libraries offer?
 
-For those new to programming, a library is a file containing code for use in projects.  A library is no different from the scripts that a programmer typically writes: all programming logic remains the same. By "importing" a library, you are able to use the functions contained in that library.  This has the benefit of keeping your application easy to read while adding new functionality.
+For those new to programming, a library is a file containing code for use in projects.  A library is no different from the scripts that a programmer typically writes: all programming logic remains the same. By "importing" a library, you are able to use the functions contained in that library.  This has the benefit of keeping your application easy to read and reducing repetition while adding new functionality.
 
 What libraries are offered with the microbit? Everything and the kitchen sink, practically:
 1. robotic speech library.  Connect headphones to pins 0 and ground with alligator clips and listen! The sound is fait, a separately powered speaker might be ideal.
