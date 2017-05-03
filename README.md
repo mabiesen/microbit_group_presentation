@@ -75,3 +75,5 @@ I have create a few other projects to demonstrate the capabilities of the microb
 **In Home Alarm System** - https://github.com/mabiesen/microbit_alarm_system
 
 **My version of the Firefly project** - https://github.com/mabiesen/microbit_pass_the_light
+
+**Control a Laserpointer by moving microbit** - https://github.com/mabiesen/microbit_pi_laser_pointer
