@@ -33,7 +33,7 @@ Full specs available at http://tech.microbit.org/hardware/
 
 For those new to programming, a library is a file containing code for use in projects.  A library is no different from the scripts that a programmer typically writes: all programming logic remains the same. By "importing" a library, you are able to use the functions contained in that library.  This has the benefit of keeping your application easy to read and reducing repetition while adding new functionality.
 
-What libraries are offered with the microbit? Everything and the kitchen sink, practically:
+What functions are offered by the Microbit library? Everything and the kitchen sink, practically:
 1. robotic speech library.  Connect headphones to pins 0 and ground with alligator clips and listen! The sound is fait, a separately powered speaker might be ideal.
 2. neopixel library - control arrays of neopixels wth your microbit!  The microbit can power up to 8 neopixels at a time on its own, or all of them if the neopixels are powered separately.
 3. Gestures library - because we have an accelerometer on board, the microbit is also able to sense gestures such as shake, up, down, left, right, or fall.
