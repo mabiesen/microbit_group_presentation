@@ -83,7 +83,7 @@ There are great instructions to guide you on installation, for the Raspberry Pi 
 
 ### Demonstration Projects
 
-I have create some additional projects.  Links may be found below:
+I have create some additional projects.  The code is very heavily commented to help newcomers understand what each piece of code does.
 
 **Basic Examples** - https://github.com/mabiesen/microbit_basic_examples
 
