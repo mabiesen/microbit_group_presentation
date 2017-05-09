@@ -66,9 +66,24 @@ while True:                                # This while statement causes the cod
                                   
 ```
 
+### Getting Started
+
+To get started programming with mu, visit the following repository: https://github.com/mu-editor/mu
+OR
+Visit the following link: https://codewith.mu/
+
+There are great instructions to guide you on installation, for the Raspberry Pi and Windows it was a breeze.
+
+
+1. Once installed, open the mu text editor.  In Windows this is as simple as clicking on the downloaded file.
+2. Connect your microbit to the pc
+3. Copy or write any code you would like into the editor
+4. Click save
+5. Click flash.  You should see the microbit blink a yellow light on the back to show the script is loading. Then the script should begin.
+
 ### Demonstration Projects
 
-I have create a few other projects to demonstrate the capabilities of the microbit.  Links may be found below:
+I have create some additional projects.  Links may be found below:
 
 **Basic Examples** - https://github.com/mabiesen/microbit_basic_examples
 
