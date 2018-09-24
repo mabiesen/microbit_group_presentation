@@ -1,5 +1,6 @@
 # Microbit Presentation
 
+NOTE:  Group presentation on the Microbit delivered to Valparaiso Hackers meetup in August 2017
 
 ### Introduction
 
